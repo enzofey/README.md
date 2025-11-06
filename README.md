@@ -27,9 +27,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/enzofey/enzofey/output/snake.svg" alt="Snake animation" />
-
-###
